@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://storage.needpix.com/rsynced_images/red-black-pattern-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0; /* Optional: Removes default margin for the body */
+    height: 100vh; /* Optional: Makes sure the background covers the entire viewport */
+  }
+
+
+
+  .styled-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 5px solid #58bb07b6;
+    border-radius: 40px;
+    background-color: #721404;
+    color: gold;
+    cursor: pointer;
+    margin-top: 425px;
+    margin-left: 830px;
+    height: 70px;
+    width: 220px
+
+  }
+
+
+
+
+
+.styled-button:hover {
+   background-color: #a5210a ;
+  border-color: chartreuse;
+   color:  yellow;
+   height: 100px;
+   width: 220px;
+}
+
+
+
+
+
+
+
+
+
+  

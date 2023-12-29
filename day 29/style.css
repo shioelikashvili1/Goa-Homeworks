@@ -15,6 +15,7 @@ body {
  p{
    color: greenyellow;
    background-color: black;
+   border-radius: 5%;
  }
 
 header {
@@ -57,4 +58,6 @@ iframe {
     width: 560px;
     height: 315px;
     transform: perspective(300px) rotateX(30deg);
+    border-radius: 10%;
 }
+th:
