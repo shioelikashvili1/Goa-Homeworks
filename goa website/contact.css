@@ -1,0 +1,63 @@
+body{
+    background-image: url(fotoebi/artistic-blurry-colorful-wallpaper-background.jpg);
+}
+.logo {
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.button{
+    position:absolute;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 70px;
+    margin-left:1255px ;
+    margin-top: 70px;
+    float: right;
+    height: 50px;
+    width: 150px;
+    font-size: x-large;
+    font-weight: 500;
+    height: 70px;
+    width: 150px
+
+ }
+ 
+ button:hover{
+    font-size: 20px;
+    transform: scale(1.4);
+  
+}
+
+.mobile{
+    height: 35px;
+    width: 40px;
+}
+p{
+    margin-top: 200px;
+    color: grey;
+    margin-left: 180px;
+    font-size:50px;
+
+}
+
+.fb{
+    height: 55px;
+    margin-left: 200px;
+    transition: 0.5s;
+}
+.yt{
+    height: 70px;
+    margin-left: 100px;
+    transition: 0.5s;
+}
+.fb:hover{
+    transform: scale(1.2);
+}
+
+.yt:hover{
+    transform: scale(1.2);
+}
